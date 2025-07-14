@@ -1,0 +1,6 @@
+[submodule "anonymous-guestbook"]
+	path = anonymous-guestbook
+	url = https://github.com/leeeeegun/anonymous-guestbook.git
+[submodule "anonymous-guestbook-frontend"]
+	path = anonymous-guestbook-frontend
+	url = https://github.com/leeeeegun/anonymous-guestbook-frontend.git
