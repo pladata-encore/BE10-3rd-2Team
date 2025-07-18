@@ -1,6 +1,6 @@
 # BE10-3rd-2Team
 
-## 익명게시
+## 익명게시판
 <br />
 
 <img width="1108" height="827" alt="Image" src="https://github.com/user-attachments/assets/a7cf2e69-7a9d-4b9e-a673-ba0c2d513f7d" />
